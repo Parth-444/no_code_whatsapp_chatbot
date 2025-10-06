@@ -23,7 +23,7 @@ A no-code WhatsApp chatbot built with Make (Integromat), Twilio WhatsApp Sandbox
 - Update & Send: Stores new messages in Data Store and sends response back through Twilio.
 
 ## ⚙️ Tools Used
-### Tool	        Purpose
+### Tool & Purpose
 - Make (Integromat)	No-code workflow automation
 - Twilio Sandbox	WhatsApp messaging interface
 - Gemini API	AI text generation
